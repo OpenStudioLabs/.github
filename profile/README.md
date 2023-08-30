@@ -1,7 +1,7 @@
 # Open Studio Labs
 
 
-*[Open Studio Labs](https://wwww.OpenStudioLabs.com)* is developing a **Development-as-a-Service (DaaS)** platform to help product managers enhance and secure open-source software they depend upon via an *Engineering Residency* program.
+*[Open Studio Labs](https://www.OpenStudioLabs.com/)* is developing a **Development-as-a-Service (DaaS)** platform to help product managers enhance and secure open-source software they depend upon via an *Engineering Residency* program.
 
 We make upstream **Enterprise Open Source Software** for a *Better World*.
 
