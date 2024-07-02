@@ -1,16 +1,14 @@
 # Open Studio Labs
 
-We understand Open Source Software and the issues companies face when they utilize OSS.
+We understand *Open Source* Software.
 
-Too often, companies have become accustomed to tackling the tasks of getting new features, fixing bug issues, and enhancing cybersecurity via workarounds or pestering the Maintainer.
+**[Open Studio Labs](https://OpenStudioLabs.com/)** a *Development-as-a-Service (DaaS)* platform that provides continuous development and support to the OS industry. Our **Engineering Residency** program is a *real-world* apprenticeship and mentorship for our OS engineers, supporting them to improve and secure the open-source software they depend upon.
 
-Our solution delivers engineering support to under-resourced OSS projects, ultimately helping companies reduce their technical debt.
+**Aspiring Founding Sponsors**
 
-*[Open Studio Labs](https://www.OpenStudioLabs.com/)* is developing a **Development-as-a-Service (DaaS)** platform to help product managers enhance and secure open-source software they depend upon using an *Engineering Residency* program.
+Calling all *OPSO Owners, OSS Product teams, and Maintainers*, we seek funding sponsors for our inaugural fall 2024 Engineering Residency cohort. 
 
-We make upstream **Enterprise Open Source Software** for a *Better World*.
-
-Our *Engineering Residency* cultivates **next-gen** engineers who contribute to the open-source software depended upon by most technology companies.
+[Contact us](mailto:info@openstudiolabs.com) today to learn about the benefits of sponsoring.
 
 <!--
 
