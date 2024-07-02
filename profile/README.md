@@ -2,7 +2,9 @@
 
 We understand *Open Source* Software.
 
-**[Open Studio Labs](https://OpenStudioLabs.com/)** a *Development-as-a-Service (DaaS)* platform that provides continuous development and support to the OS industry. Our **Engineering Residency** program is a *real-world* apprenticeship and mentorship for our OS engineers, supporting them to improve and secure the open-source software they depend upon.
+**[Open Studio Labs](https://OpenStudioLabs.com/)** a *Development-as-a-Service (DaaS)* platform that provides continuous development and support to the OS industry. 
+
+Our **Engineering Residency** program is a *real-world* apprenticeship and mentorship for our OS engineers, supporting them to improve and secure the open-source software they depend upon.
 
 **Aspiring Founding Sponsors**
 
